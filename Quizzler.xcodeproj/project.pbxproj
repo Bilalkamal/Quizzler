@@ -68,6 +68,7 @@
 		633646BB1B8C657400FF45E2 /* Quizzler */ = {
 			isa = PBXGroup;
 			children = (
+				9C614A84206ACF4100A68A41 /* Screenshots */,
 				EBB1C72D1B946C580011F5C3 /* Controller */,
 				EBB1C72C1B946C530011F5C3 /* Model */,
 				EBB1C72B1B946C4B0011F5C3 /* View */,
@@ -79,7 +80,6 @@
 		633646BC1B8C657400FF45E2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9C614A84206ACF4100A68A41 /* Screenshots */,
 				9CD684522041F0EC007B3C52 /* ProgressHUD.bundle */,
 				9CD684542041F0EC007B3C52 /* ProgressHUD.h */,
 				9CD684532041F0EC007B3C52 /* ProgressHUD.m */,
